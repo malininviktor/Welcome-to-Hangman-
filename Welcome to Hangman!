@@ -1,0 +1,3 @@
+ fmt.Println("Welcome to Hangman!")
+ fmt.Println("Try to guess the word.")
+ display := make([]string, len(secretWord))
